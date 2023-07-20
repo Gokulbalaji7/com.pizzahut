@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.14" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="To check the fuctionalities of pizzahut webpage" name="To check the webpage of pizzahut website and order pizza" time="0.002">
+<system-out><![CDATA[
+Given user launches the url.................................................passed
+Then click the pizza button.................................................passed
+Then click sizzling shewan chicken button...................................passed
+And then click san fransico button..........................................passed
+And then click for extra cheese button......................................passed
+Then click add to mybasket..................................................passed
+And click checkout button...................................................passed
+And then fill the details for name..........................................passed
+Then addmobile no...........................................................passed
+And then add email address..................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
